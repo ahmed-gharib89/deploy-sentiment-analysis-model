@@ -1,5 +1,14 @@
-# SageMaker Deployment Project
+# Deploy Sentiment Analysis Model
 
-The notebook and Python files provided here, once completed, result in a simple web app which interacts with a deployed recurrent neural network performing sentiment analysis on movie reviews. This project assumes some familiarity with SageMaker, the mini-project, Sentiment Analysis using XGBoost, should provide enough background.
+## Introduction
+This project is a part of the [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) at [Udacity](http://www.udacity.com)
 
-Please see the [README](https://github.com/udacity/sagemaker-deployment/tree/master/README.md) in the root directory for instructions on setting up a SageMaker notebook and downloading the project files (as well as the other notebooks).
+
+#### Find me in social media
+[![Github](https://img.icons8.com/ios-filled/30/000000/github.png "Github")](https://github.com/ahmed-gharib89 "Github")
+[![LinkedIn](https://img.icons8.com/ios-glyphs/30/000000/linkedin.png "LinkedIn")](https://www.linkedin.com/in/ahmed-abdel-moniem-gharib/ "LinkedIn")
+[![Facebook](https://img.icons8.com/ios-filled/30/000000/facebook-new.png "Facebook")](https://www.facebook.com/just.nimo/)
+[![Whatsapp](https://img.icons8.com/ios/30/000000/whatsapp.png "Whatsapp")](https://wa.me/201096995535?text=Hello)
+[![Instagram](https://img.icons8.com/ios/30/000000/instagram.png "Instagram")](https://www.instagram.com/ahmed.gharib89/)
+
+ 
